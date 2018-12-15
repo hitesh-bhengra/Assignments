@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Navigation Sample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="programming">Programming</string>
+    <string name="about_information">About Information</string>
+    <string name="patient_information">Patient Information</string>
+    <string name="viewpager_example">ViewPager Example</string>
+    <string name="navigation_example">Navigation Example</string>
+    <string name="about_application_version">About Application Version</string>
+    <string name="device_information">Device Information</string>
+    <string name="mobile_information"><![CDATA[Tablet & Mobile Information]]></string>
+    <string name="my_header">My Header</string>
+</resources>
