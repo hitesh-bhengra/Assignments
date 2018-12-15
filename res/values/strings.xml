@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Interest Calculator</string>
+    <string name="amount">Amount</string>
+    <string name="Year">Year</string>
+    <string name="Rate">Rate</string>
+    <string name="time">Time (in yrs)</string>
+    <string name="interest">Rate of Interest</string>
+    <string name="simple">Calculate Simple Interest</string>
+    <string name="compound">Calculate Compound Interest</string>
+    <string name="finalamount">Final Principal Amount</string>
+</resources>

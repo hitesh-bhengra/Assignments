@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="StringEscaping">Calculateur d\'intérêt</string>
+    <string name="amount">Montant</string>
+    <string name="Year">Année </string>
+    <string name="Rate">Taux </string>
+    <string name="time">Temps (en années)</string>
+    <string name="interest" tools:ignore="StringEscaping">Taux d\'intérêt</string>
+    <string name="simple" tools:ignore="StringEscaping">Calculez l\'intérêt simple</string>
+    <string name="compound" tools:ignore="StringEscaping">Calculer l\'intérêt composé</string>
+    <string name="finalamount">Montant du principal final </string>
+</resources>

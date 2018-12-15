@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор процентов</string>
+    <string name="amount">Сумма</string>
+    <string name="Year">Год </string>
+    <string name="Rate">Ставка </string>
+    <string name="time">Время (в годах)</string>
+    <string name="interest">Процентная ставка</string>
+    <string name="simple">Расчет простого интереса</string>
+    <string name="compound">РассЧитать сложные проценты</string>
+    <string name="finalamount">Окончательная основная сумма</string>
+</resources>
