@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UI Layout</string>
+
+    <string-array name="options">
+        <item>Cold</item>
+        <item>Fever</item>
+        <item>Body ache</item>
+        <item>Headache</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="date">
+        <item>26 Jan 2012</item>
+        <item>31 Dec 2014</item>
+        <item>2 Oct 2015</item>
+        <item>25 Dec 2016</item>
+        <item>14 Feb 2018</item>
+    </string-array>
+</resources>
