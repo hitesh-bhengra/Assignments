@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de intereses</string>
+    <string name="amount">Cantidad</string>
+    <string name="Year">Yera</string>
+    <string name="Rate">Tasa</string>
+    <string name="time">Tiempo (en años)</string>
+    <string name="interest">Tasa de interés</string>
+    <string name="simple">Calcule el interés simple</string>
+    <string name="compound">Calcular interés compuesto </string>
+    <string name="finalamount">Monto final del principal</string>
+</resources>
