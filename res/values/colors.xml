@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="door">#852400</color>
+    <color name="wall">#24BD51</color>
+    <color name="bedroom">#FF7F27</color>
+    <color name="storeroom">#C8BFE7</color>
+    <color name="kitchen">#99D9EA</color>
+    <color name="hall">#FFC90E</color>
+    <color name="black">#000000</color>
+    <color name="textback">#DFDFDF</color>
+    <color name="bedroomactivity">#FFA161</color>
+    <color name="block1">#ED1C24</color>
+    <color name="block2">#A349A4</color></resources>
